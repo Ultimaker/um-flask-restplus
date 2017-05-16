@@ -1,0 +1,3 @@
+[submodule "flask-restplus"]
+	path = flask-restplus
+	url = https://github.com/noirbizarre/flask-restplus.git
